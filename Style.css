@@ -1,21 +1,21 @@
 h1 {
 	font-family: cursive; 
 	color: red;
-	font-size: 40px;
-	margin-top: 60px ;
+	font-size: 70px;
+	margin-top: 260px ;
 }
 h4 {
+
 	font-family: monospace;
 	margin-top: 80px; 
 	font-size: 50px;
 }
-.b1 {background-color: blue;} 
+.b1 {background-color: yellowgreen;} 
 .b2 {background-color: peachpuff;} 
-.b3 {background-color: turquoise;}
+.b3 {background-color: orange;}
 .container {
 	text-align: center;
 }
 body {
 	background-color: black;
 }
-
