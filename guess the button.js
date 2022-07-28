@@ -1,11 +1,9 @@
-function firstButton() {
-   alert("You lost! Try again.");
-}
+let random = Math.floor((Math.random() * 3) + 1);
 
-function secondButton() {
-   alert("You lost! Try again.");
-}
-
-function winnerButton() {
-  alert("It was me, you won!");
+function winnerButton(id) {
+  if (random == id){
+      alert('Awesome! You won!');
+   }  else {
+      alert('You lost! Try again');
+    }
 }
